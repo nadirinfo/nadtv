@@ -3,13 +3,13 @@
         "channel": "Al Jazeera 4K",
         "url": "https://free.one24tv.com:443/26231710979414/26231710979414/30832.m3u8",
         "http_referrer": null,
-        "user_agent": null
+        "user_agent": one24tv
     },
     {
         "channel": "Al Jazeera ടⅾ",
         "url": "https://free.one24tv.com:443/26231710979414/26231710979414/374.m3u8",
         "http_referrer": null,
-        "user_agent": null
+        "user_agent": one24tv
     },
     {
         "channel": "Al Jazeera Mubasher",
