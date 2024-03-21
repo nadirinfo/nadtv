@@ -1,7 +1,7 @@
 [
     {
-        "channel": "Al Jazeera 4K",
-        "url": "https://free.one24tv.com:443/26231710979414/26231710979414/30832.m3u8",
+        "channel": "Mbc Bollywood",
+        "url": "https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8",
         "http_referrer": null,
         "user_agent": "one24tv"
     },
