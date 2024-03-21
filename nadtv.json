@@ -27,13 +27,13 @@
         "channel": "Al Mayadeen",
         "url": "https://free.one24tv.com:443/26231710979414/26231710979414/382.m3u8",
         "http_referrer": null,
-        "user_agent": null
+        "user_agent": "one24"
     },
     {
         "channel": "Al Ghad",
         "url": "https://free.one24tv.com:443/26231710979414/26231710979414/1221.m3u8",
         "http_referrer": null,
-        "user_agent": null
+        "user_agent": "one24tv"
     },
     {
         "channel": "Rusia Today",
