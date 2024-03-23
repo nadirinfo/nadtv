@@ -12,8 +12,8 @@
         "user_agent": "one24tv"
     },
     {
-        "channel": "Beinsport",
-        "url": "json49.online/js/static/67747_7801.js",
+        "channel": "Mbc2",
+        "url": "https://cloud.maxtvs.net/live/105104225102/maxtvs20242024/149.m3u8",
         "http_referrer": null,
         "user_agent": null
     },
