@@ -13,19 +13,19 @@
     },
     {
         "channel": "Mbc2",
-        "url": "https://cloud.maxtvs.net/live/105104225102/maxtvs20242024/149.m3u8",
+        "url": "http://2.onrev.xyz:80/mag00:1A:79:00:00:00/f1kkLV0c0m/187366",
         "http_referrer": null,
         "user_agent": null
     },
     {
         "channel": "Mbc Action",
-        "url": "https://cloud.maxtvs.net/live/105104225102/maxtvs20242024/249.m3u8",
+        "url": "http://2.onrev.xyz:80/mag00:1A:79:00:00:00/f1kkLV0c0m/187378",
         "http_referrer": null,
         "user_agent": null
     },
     {
         "channel": "Mbc Max",
-        "url": "https://cloud.maxtvs.net/live/105104225102/maxtvs20242024/166.m3u8",
+        "url": "http://2.onrev.xyz:80/mag00:1A:79:00:00:00/f1kkLV0c0m/187379",
         "http_referrer": null,
         "user_agent": "one24"
     },
