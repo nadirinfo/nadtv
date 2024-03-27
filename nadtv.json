@@ -42,14 +42,14 @@
         "user_agent": null
     },
     {
-        "channel": "Beinsport 1",
-        "url": "http://2.onrev.xyz:80/mag00:1A:79:00:00:00/f1kkLV0c0m/187232",
+        "channel": "El chark- Doc",
+        "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
         "http_referrer": null,
         "user_agent": null
     },
     {
         "channel": "Aljazeera doc",
-        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+        "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
         "http_referrer": null,
         "user_agent": null
     },
