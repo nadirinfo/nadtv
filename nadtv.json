@@ -6,12 +6,6 @@
         "user_agent": "one24tv"
     },
     {
-        "channel": "Aljazeera Doc",
-        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
-        "http_referrer": null,
-        "user_agent": "one24tv"
-    },
-    {
         "channel": "Alarabiya",
         "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
         "http_referrer": null,
@@ -54,8 +48,8 @@
         "user_agent": null
     },
     {
-        "channel": "Al Araby",
-        "url": "https://free.one24tv.com:443/26231710979414/26231710979414/378.m3u8",
+        "channel": "Aljazeera doc",
+        "url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
         "http_referrer": null,
         "user_agent": null
     },
