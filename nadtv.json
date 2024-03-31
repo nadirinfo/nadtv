@@ -15,19 +15,19 @@
         "channel": "Mbc2",
         "url": "http://start1.servebeer.com:8080/live/wNyZZP04rN/cd9eoDyffa/152",
         "http_referrer": null,
-        "user_agent": null
+        "user_agent": SOR,
     },
     {
         "channel": "Mbc Action",
         "url": "http://start1.servebeer.com:8080/live/wNyZZP04rN/cd9eoDyffa/160",
         "http_referrer": null,
-        "user_agent": null
+        "user_agent": SOR,
     },
     {
         "channel": "Mbc Max",
         "url": "http://start1.servebeer.com:8080/live/wNyZZP04rN/cd9eoDyffa/161",
         "http_referrer": null,
-        "user_agent": null
+        "user_agent": SOR,
     },
     {
         "channel": "Dubai one",
@@ -57,13 +57,13 @@
         "channel": "beinsport 1",
         "url": "http://start1.servebeer.com:8080/live/wNyZZP04rN/cd9eoDyffa/81",
         "http_referrer": null,
-        "user_agent": null
+        "user_agent": SOR,
     },
     {
         "channel": "beinsport 2",
         "url": "http://start1.servebeer.com:8080/live/wNyZZP04rN/cd9eoDyffa/82",
         "http_referrer": null,
-        "user_agent": null
+        "user_agent": SOR,
     },
     {
         "channel": "Sky News Arabia",
